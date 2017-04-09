@@ -9,3 +9,5 @@ This is a simple readme file
 etc
 
 a bit more
+
+update the same part of the file on both branches
